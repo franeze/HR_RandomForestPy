@@ -1,4 +1,4 @@
-# **HR_RandomForestPy**  
+# **HR project: Predicting Employee Attrition with Machine Learning**  
 **Capstone Project: Providing Data-Driven Suggestions for HR**  
 This capstone project was completed as part of the **Google Advanced Data Analytics Professional Certificate.**  
 
