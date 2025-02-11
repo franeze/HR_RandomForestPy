@@ -13,7 +13,6 @@ This capstone project was completed as part of the **Google Advanced Data Analyt
 The details of the project and the analysis conducted with Python (numpy, pandas, matplotlib, seaborn, plotly, scikit-learn, pickle) can be found at this link: [HR Random Forest Project](https://github.com/franeze/HR_RandomForestPy/blob/main/HR_RandomForest_porject.ipynb)
 
 
-# **Predicting Employee Attrition Using Machine Learning**  
 
 ## **Project Overview**  
 Employee turnover is a major concern for businesses, as hiring and training new employees can be costly. This project analyzes HR data to identify factors contributing to employee attrition and builds a predictive model to help businesses proactively address retention issues. The dataset contains employee-related factors such as **job satisfaction levels, performance reviews, and the average number of hours worked per month.** Using machine learning models, I predict whether an employee is likely to leave the company.  
