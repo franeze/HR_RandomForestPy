@@ -2,12 +2,16 @@
 **Capstone Project: Providing Data-Driven Suggestions for HR**  
 This capstone project was completed as part of the **Google Advanced Data Analytics Professional Certificate.**  
 
+
 ---
 <div style="text-align: center;">
   <a href="https://github.com/franeze/HR_RandomForestPy" target="_blank">
     <img src="employee_attrition.jpg" alt="Example Image" width="300"/>
   </a>
 </div>
+
+The details of the project and the analysis conducted with Python (numpy, pandas, matplotlib, seaborn, plotly, scikit-learn, pickle) can be found at this link: [HR Random Forest Project](https://github.com/franeze/HR_RandomForestPy/blob/main/HR_RandomForest_porject.ipynb)
+
 
 # **Predicting Employee Attrition Using Machine Learning**  
 
