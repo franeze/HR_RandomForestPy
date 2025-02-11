@@ -3,6 +3,11 @@
 This capstone project was completed as part of the **Google Advanced Data Analytics Professional Certificate.**  
 
 ---
+<div style="text-align: center;">
+  <a href="https://github.com/franeze/HR_RandomForestPy" target="_blank">
+    <img src="employee_attrition.jpg" alt="Example Image" width="300"/>
+  </a>
+</div>
 
 # **Predicting Employee Attrition Using Machine Learning**  
 
